@@ -1,7 +1,7 @@
 <?php
 /**
  * 关于角色权限的脚本
- * @author asif<yadong.wu@chinacache.com>
+ * @author asif<wuyadong19910606@163.com>
  * @date 2015-10-09 下午2:14:40
  * @version 1.0.0
  * @copyright Copyright ChinaCache
